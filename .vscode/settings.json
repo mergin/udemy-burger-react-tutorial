@@ -2,6 +2,7 @@
     "html.format.wrapAttributes": "force-aligned",
     "workbench.colorCustomizations": {
         "activityBar.background": "#93e6fc",
+        "activityBar.activeBorder": "#fa45d4",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
         "activityBarBadge.background": "#fa45d4",
